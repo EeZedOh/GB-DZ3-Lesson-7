@@ -1,10 +1,6 @@
-//
-// Created by aspdr on 12/09/2021.
-//
-
 #pragma once
 
 class IRepository {
-    virtual void Open(std::string filename) = 0; // бинарная десериализация в файл
-    virtual void Save() = 0; // бинарная сериализация в файл
+    virtual void Open(std::string filename) = 0; // ГЎГЁГ­Г Г°Г­Г Гї Г¤ГҐГ±ГҐГ°ГЁГ Г«ГЁГ§Г Г¶ГЁГї Гў ГґГ Г©Г«
+    virtual void Save() = 0; // ГЎГЁГ­Г Г°Г­Г Гї Г±ГҐГ°ГЁГ Г«ГЁГ§Г Г¶ГЁГї Гў ГґГ Г©Г«
 };
