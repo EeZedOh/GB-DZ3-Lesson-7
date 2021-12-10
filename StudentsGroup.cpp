@@ -1,7 +1,3 @@
-//
-// Created by aspdr on 12/09/2021.
-//
-
 #include "StudentsGroup.h"
 
 void StudentsGroup::Open(std::string filename) {
