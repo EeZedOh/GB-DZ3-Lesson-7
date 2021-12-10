@@ -1,7 +1,3 @@
-//
-// Created by aspdr on 12/09/2021.
-//
-
 #pragma once
 
 #include "classes.pb.h"
